@@ -6,7 +6,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadrackjm&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadrackjm&layout=compact)](https://github.com/shadrackjm/github-readme-stats)
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,php,laravel,livewire,prelineui,hyperui,react,vite,next,nodejs,firebase,git,github,vscode,postman,thunderclient,stackoverflow&perline=13)](#)
 <!---
 shadrackjm/shadrackjm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
