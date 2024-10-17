@@ -3,6 +3,7 @@
 - 😁 I’m interested in Programming(Web and Mobile apps) and REST APIs development.
 - 📫 How to reach me +255716507055 or shadrackmballah80@gmail.com
 <img align="right" src="https://komarev.com/ghpvc/?username=shadrackjm" alt="GitHub profile views counter">
+
 ---
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
