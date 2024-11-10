@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shadrack JM
 - 👀 I’m a Software Developer.
 - 😁 I’m interested in Programming(Web and Mobile apps) and REST APIs development.
+- Currently Learning Microsoft Dynamics 365 ERP
 - 📫 How to reach me +255716507055 or shadrackmballah80@gmail.com
 <img align="right" src="https://komarev.com/ghpvc/?username=shadrackjm" alt="GitHub profile views counter">
 
