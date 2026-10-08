@@ -15,7 +15,7 @@ I build business software that runs real companies: Laravel web apps, SaaS produ
 ### 🤝 Open to
 Remote roles, freelance projects (Laravel, SaaS MVPs, Business Central extensions) and collaborations.
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shadrackjm) · [your email]
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shadrackjm) · shadrackmballah80@gmail.com
 ---
 
  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
